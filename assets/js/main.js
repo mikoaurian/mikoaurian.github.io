@@ -74,7 +74,7 @@ tabs.forEach(tab =>{
 
 
 /*==================== CONTACT ME ====================*/
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbxrf0dYBKZLz0IHpmDxuA6vKO5da7dDRjr5olwxs-JJ70CSPzKtHvPxd50M8GuZNE98mQ/exec'
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbzDvbRro9cCU0j8LJtaSoCOSB-mvoEHLbrKuohF_MlN-ekFDT9x8xqw0tfdY-4RaWhpdA/exec'
   const form = document.forms['submit-to-google-sheet']
   const msg = document.getElementById("msg")
 
